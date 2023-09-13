@@ -1,0 +1,16 @@
+F:\AproyectoFinalPOO\ProyectoCajero\ProyectoCajero\bin\Debug\ProyectoCajero.exe.config
+F:\AproyectoFinalPOO\ProyectoCajero\ProyectoCajero\bin\Debug\ProyectoCajero.exe
+F:\AproyectoFinalPOO\ProyectoCajero\ProyectoCajero\bin\Debug\ProyectoCajero.pdb
+F:\AproyectoFinalPOO\ProyectoCajero\ProyectoCajero\bin\Debug\LibreriaCajero.dll
+F:\AproyectoFinalPOO\ProyectoCajero\ProyectoCajero\bin\Debug\LibreriaCajero.pdb
+F:\AproyectoFinalPOO\ProyectoCajero\ProyectoCajero\obj\Debug\ProyectoCajero.csprojResolveAssemblyReference.cache
+F:\AproyectoFinalPOO\ProyectoCajero\ProyectoCajero\obj\Debug\ProyectoCajero.Form1.resources
+F:\AproyectoFinalPOO\ProyectoCajero\ProyectoCajero\obj\Debug\ProyectoCajero.Properties.Resources.resources
+F:\AproyectoFinalPOO\ProyectoCajero\ProyectoCajero\obj\Debug\ProyectoCajero.csproj.GenerateResource.Cache
+F:\AproyectoFinalPOO\ProyectoCajero\ProyectoCajero\obj\Debug\ProyectoCajero.exe
+F:\AproyectoFinalPOO\ProyectoCajero\ProyectoCajero\obj\Debug\ProyectoCajero.pdb
+F:\AproyectoFinalPOO\ProyectoCajero\ProyectoCajero\obj\Debug\ProyectoCajero.ModoAdministrador.resources
+F:\AproyectoFinalPOO\ProyectoCajero\ProyectoCajero\obj\Debug\ProyectoCajero.ModoCliente.resources
+F:\AproyectoFinalPOO\ProyectoCajero\ProyectoCajero\obj\Debug\ProyectoCajero.CrearCliente.resources
+F:\AproyectoFinalPOO\ProyectoCajero\ProyectoCajero\obj\Debug\ProyectoCajero.Exito.resources
+F:\AproyectoFinalPOO\ProyectoCajero\ProyectoCajero\obj\Debug\ProyectoCajero.EliminarCliente.resources

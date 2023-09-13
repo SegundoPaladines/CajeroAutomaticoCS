@@ -1,0 +1,9 @@
+F:\AproyectoFinalRedes\LibreriaCajero\LibreriaCajero\bin\Debug\LibreriaCajero.dll
+F:\AproyectoFinalRedes\LibreriaCajero\LibreriaCajero\bin\Debug\LibreriaCajero.pdb
+F:\AproyectoFinalRedes\LibreriaCajero\LibreriaCajero\obj\Debug\LibreriaCajero.dll
+F:\AproyectoFinalRedes\LibreriaCajero\LibreriaCajero\obj\Debug\LibreriaCajero.pdb
+F:\AproyectoFinalRedes\LibreriaCajero\LibreriaCajero\obj\Debug\LibreriaCajero.csprojResolveAssemblyReference.cache
+F:\AproyectoFinalPOO\LibreriaCajero\LibreriaCajero\bin\Debug\LibreriaCajero.dll
+F:\AproyectoFinalPOO\LibreriaCajero\LibreriaCajero\bin\Debug\LibreriaCajero.pdb
+F:\AproyectoFinalPOO\LibreriaCajero\LibreriaCajero\obj\Debug\LibreriaCajero.dll
+F:\AproyectoFinalPOO\LibreriaCajero\LibreriaCajero\obj\Debug\LibreriaCajero.pdb
